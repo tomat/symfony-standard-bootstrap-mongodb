@@ -1,0 +1,5 @@
+/.idea/
+/web/bundles/
+app/logs/*
+app/cache/*
+.gitignorethis/
