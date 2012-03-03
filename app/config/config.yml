@@ -50,7 +50,7 @@ doctrine_mongodb:
             server: mongodb://localhost:27017
             options:
                 connect: true
-    default_database: blarg
+    default_database: bootstrap
     document_managers:
         default:
             auto_mapping: true
