@@ -33,7 +33,7 @@ But if you still want to use Git, you are on your own.
 Run the following commands:
 
     git clone http://github.com/symfony/symfony-standard.git
-    cd symfony-standard
+    cd symfony-standard-bootstrap-mongodb
     rm -rf .git
 
 2) Installation
